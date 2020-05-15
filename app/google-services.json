@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1012758069945",
+    "firebase_url": "https://theplayground-1b886.firebaseio.com",
+    "project_id": "theplayground",
+    "storage_bucket": "theplayground.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012758069945:android:e07346d1900f455b719168",
+        "android_client_info": {
+          "package_name": "com.example.theplayschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012758069945-e0cne4eoc91bj01efcqftc6dkqmmq4c3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaeg3Kl9szuzn2slAIl3chOKZoe30ZG0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012758069945-op9l44b2af42268os2ui4onan0onvau6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
